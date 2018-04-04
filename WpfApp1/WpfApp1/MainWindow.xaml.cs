@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello this is master done some changes");
+            MessageBox.Show("Hello this is changes in browser");
         }
     }
 }
