@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello this is not master kesikan branch");
+            MessageBox.Show("Hello this is not master kesikan branch new");
         }
     }
 }
